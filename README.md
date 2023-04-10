@@ -1,2 +1,3 @@
-- 👋 Hi, I’m Valentina Gritti
-- 🌱 I’m currently lerning Java
+- 👋 Hi, I’m Valentina Gritti 
+- ✨️ I'm a student of Computer Science
+- 🌱 Currently lerning Java
