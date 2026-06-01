@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Valentina Gritti 
-- ✨️ I'm a student of Computer Science
-- 🌱 Currently lerning Java
+- ✨️ I'm graduate Computer Science
+- 🌱 Currently in Quality Assurence world
